@@ -1,0 +1,15 @@
+1 L'entreprise, avec sa naissance, la localisation du siège social et où on peut trouver des filiales
+	location of head office and subsidiaries
+2 nb d'employés + conditions de travail
+	benefits + perks
+3 ensuite ses partenaires
+	les entreprises qui font les cartes
+4 après on parle des produits
+	les différentes technos
+5 la concurrence (ATI)
+	ce qu'a fait ATI pour contrer les avancées de Nvidia (par exemple en réponse au SLI de nvidia, ATI a fait le crossfire)
+6 et ensuite les parts de marché suivi des chiffres 
+	market shares + turnover 
+
+Based in Santa Clara, Calif., NVIDIA was founded in 1993, by Jen-Hsun Huang, who had previously served at LSI Logic and AMD, and Chris Malachowsky and Curtis Priem, who came from Sun Microsystems. The company went public in 1999 and is listed on NASDAQ, where its shares trade under the symbol NVDA. It has some 5,700 employees in more than 20 countries.
+
