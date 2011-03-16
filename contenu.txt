@@ -1,6 +1,4 @@
-1 L'entreprise, avec sa naissance, la localisation du siège social et où on peut trouver des filiales
-	location of head office and subsidiaries
-2 nb d'employés + conditions de travail
+ nb d'employés + conditions de travail
 	benefits + perks
 3 ensuite ses partenaires
 	les entreprises qui font les cartes
@@ -26,4 +24,27 @@ git push #origin master
 
 inmone = Grosse BDD direct
 kimball = magasin de données petit au départ
+
+GPGPU
+General-purpose computing on graphics processing units (GPGPU, also referred to as GPGP and less often GP²) is the technique of using a GPU, which typically handles computation only for computer graphics, to perform computation in applications traditionally handled by the CPU. It is made possible by the addition of programmable stages and higher precision arithmetic to the rendering pipelines, which allows software developers to use stream processing on non-graphics data.
+
+1 L'entreprise, avec sa naissance, la localisation du siège social et où on peut trouver des filiales
+	location of head office and subsidiaries
+
+	The head office of NVIDIA is based in Santa Clara, Calif., NVIDIA was founded in 1993, by Jen-Hsun Huang, who had previously served at LSI Logic and AMD, and Chris Malachowsky and Curtis Priem, who came from Sun Microsystems. The company went public in 1999 and is listed on NASDAQ, where its shares trade under the symbol NVDA. It has some 5,700 employees in more than 20 countries.
+
+
+	Health Care Benefits
+	NVIDIA offers a good coverage to its employees for all the medical stuff.
+	NVIDIA helps also by paying the majority of the cost of the coverage for the dependents of the employees.
+
+	Pre-tax Premiums
+	A Pre-Tax Premium plan is a benefit that allows employees to pay their portion of your group sponsored insurance premium with pre-tax dollars. By using pre-tax dollars, employees reduce their income taxes and ultimately save money.
+
+	401(k) Retirement Plan
+	A 401(k) is a type of retirement savings account.
+	The major attraction of these plans is that the contributions are taken from pre-tax salary, and the funds grow tax-free until withdrawn.
+
+	Flexible Spending Accounts (FSAs)
+
 
