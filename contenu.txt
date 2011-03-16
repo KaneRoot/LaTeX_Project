@@ -47,4 +47,14 @@ General-purpose computing on graphics processing units (GPGPU, also referred to 
 
 	Flexible Spending Accounts (FSAs)
 
+	A flexible spending account is an account into which amounts are deposited to be used as payment for future eligible health care expenses.
 
+
+	So working at NVIDIA seems to be really good but in fact if you ask some employees the reality is different...
+
+	Nvidia sells many different types of video-cards so as to meet the needs of as many people as possible.
+	There are some video cards for a basic use, some for workstations and for gaming.
+
+
+	LIENS
+	http://www.proz.com/kudoz/english_to_french/bus_financial/32065-flexible_spending_account_fsa.html
