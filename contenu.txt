@@ -52,9 +52,16 @@ General-purpose computing on graphics processing units (GPGPU, also referred to 
 
 	So working at NVIDIA seems to be really good but in fact if you ask some employees the reality is different...
 
-	Nvidia sells many different types of video-cards so as to meet the needs of as many people as possible.
+
+	I'm going to present the products
+	Nvidia sells many different ranges of video-cards so as to meet the needs of as many people as possible.
 	There are some video cards for a basic use, some for workstations and for gaming.
 
+	
+	convenient
 
 	LIENS
+	http://www.nvidia.com/page/benefits.html
+	http://en.wikipedia.org/wiki/Flexible_spending_account
 	http://www.proz.com/kudoz/english_to_french/bus_financial/32065-flexible_spending_account_fsa.html
+	https://www.uhcservices.com/home/OurServices/PreTaxPremiumPlan/tabid/64/Default.aspx
