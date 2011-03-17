@@ -14,9 +14,7 @@ kimball = magasin de données petit au départ
 GPGPU
 General-purpose computing on graphics processing units (GPGPU, also referred to as GPGP and less often GP²) is the technique of using a GPU, which typically handles computation only for computer graphics, to perform computation in applications traditionally handled by the CPU. It is made possible by the addition of programmable stages and higher precision arithmetic to the rendering pipelines, which allows software developers to use stream processing on non-graphics data.
 
-1 L'entreprise, avec sa naissance, la localisation du siège social et où on peut trouver des filiales
-	location of head office and subsidiaries
-
+1.
 	The head office of NVIDIA is based in Santa Clara, Calif., NVIDIA was founded in 1993, by Jen-Hsun Huang, who had previously served at LSI Logic and AMD, and Chris Malachowsky and Curtis Priem, who came from Sun Microsystems. The company went public in 1999 and is listed on NASDAQ, where its shares trade under the symbol NVDA. It has some 5,700 employees in more than 20 countries.
 
 
@@ -46,7 +44,7 @@ General-purpose computing on graphics processing units (GPGPU, also referred to 
 	First graphics card : NV1 for games console Saturn of Sega
 
 	The RIVA 128 and RIVA 128ZX (DirectX 5)
-	The RIVA TNT, RIVA TNT2 (directX 6), it's a very good success which let NVidia to be the market leader.
+	The RIVA TNT, RIVA TNT2 (directX 6), it's a success which makes NVIDIA the market leader.
 	
 	The GeForce : 13 types of GeForce (GeForce 8 integrete CUDA technology)
 
@@ -57,12 +55,7 @@ General-purpose computing on graphics processing units (GPGPU, also referred to 
 
 	Whenever Nvidia launches a new product, AMD launches a similar product in the following weeks.	
 
-	
-
-	convenient
-
 SLI
-
 How Does SLI Technology Work?
 Using proprietary software algorithms and dedicated scalability logic in each NVIDIA graphics processing unit (GPU), NVIDIA SLI technology delivers up to twice the performance (with 2 cards) and 2.8X the performance (with 3 cards) compared to a single graphics solution.
 
@@ -70,15 +63,12 @@ How Do I Get SLI?
 To run SLI, a PC needs to be equipped with an SLI-Certified Motherboard and 2or 3 SLI-Certified GeForce GPUs. We also recommend using an SLI-Certified power supply and chassis for maximum stability.
 
 CUDA Architecture
-
 CUDA is a revolutionary parallel computing architecture. As an enabling hardware and software technology, CUDA makes it possible to use the many computing cores in a graphics processor to perform general-purpose mathematical calculations, achieving dramatic speedups in computing performance.
 
 OpenCL
-
 OpenCL™ (Open Computing Language) is a new heterogeneous computing environment that runs on the CUDA architecture. It will allow developers to harness the massive parallel computing power of NVIDIA GPUs to create compelling computing applications.
 
 PhysX
-
 NVIDIA® PhysX™ is a powerful physics engine enabling real-time physics in leading edge PC and console games. PhysX software is widely adopted by over 150 games, is used by more than 10,000 developers of all types and is supported on Sony Playstation 3, Microsoft Xbox 360, Nintendo Wii and PC. 
 
 
@@ -86,14 +76,15 @@ NVIDIA® PhysX™ is a powerful physics engine enabling real-time physics in lea
 LIBVDPAU
 VDPAU (Video Decode and Presentation API for Unix) is an open source library (libvdpau) and API originally designed by NVIDIA for its GeForce 8 series and later GPU hardware,[2][3] targeted at the X Window System on Unix-based operating systems (including Linux, FreeBSD, and Solaris).[4][5][6] This VDPAU API allows video programs to offload portions of the video decoding process and video post-processing to the GPU video-hardware.
 The libvdpau standalone VDPAU library is distributed by NVIDIA independently of their proprietary Linux graphics driver.
+	convenient
 
 Concurrence
 
 AMD accused NVIDIA to cheat with PhysX
-Indeed AMD maintain that NVIDIA modified the PhysX API in order to haven't the best perform with multiple processor in the CPU so that give a advantage more important than the GPU
+AMD maintained indeed that NVIDIA had modified the PhysX API in order not to have the best performance with multiple processors in the CPU , and so to give an advantage to the NVIDIA GPU.
 
 
-ATI bring out the crossfire one year after SLI, it approximately the same thing. In the same way as AMD bring out the Hybrid crossfire in 2008 after NVIDIA
+ATI brought out the crossfire one year after SLI, it's approximately the same thing. In the same way, AMD brought out the Hybrid crossfire in 2008, just after NVIDIA
 
 
 
