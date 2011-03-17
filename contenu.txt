@@ -11,9 +11,6 @@ git push #origin master
 inmone = Grosse BDD direct
 kimball = magasin de données petit au départ
 
-GPGPU
-General-purpose computing on graphics processing units (GPGPU, also referred to as GPGP and less often GP²) is the technique of using a GPU, which typically handles computation only for computer graphics, to perform computation in applications traditionally handled by the CPU. It is made possible by the addition of programmable stages and higher precision arithmetic to the rendering pipelines, which allows software developers to use stream processing on non-graphics data.
-
 1.
 	The head office of NVIDIA is based in Santa Clara, Calif., NVIDIA was founded in 1993, by Jen-Hsun Huang, who had previously served at LSI Logic and AMD, and Chris Malachowsky and Curtis Priem, who came from Sun Microsystems. The company went public in 1999 and is listed on NASDAQ, where its shares trade under the symbol NVDA. It has some 5,700 employees in more than 20 countries.
 
@@ -48,16 +45,12 @@ General-purpose computing on graphics processing units (GPGPU, also referred to 
 	
 	The GeForce : 13 types of GeForce (GeForce 8 integrete CUDA technology)
 
-	The Quadro
-
-The Nvidia Quadro series of AGP, PCI, and PCI Express graphics-cards are designed to accelerate CAD (Computer-Aided Design) and DCC (digital content creation), and the cards are usually featured in workstations. (Compared to the NVIDIA GeForce product-line, which specifically targets computer-gaming). Competing products include the FireGL line of workstation graphics cards by ATI Technologies, Inc.. Companies such as Matrox and Avid also focus on specialized hardware accelerated graphics cards intended primarily for DCC.
-
 	The Tesla
+The NVIDIA Tesla is designed from the ground up for high performance computing (HPC). Based on the next generation CUDA GPU architecture codenamed "Fermi", it supports many "must have" features for technical and enterprise computing.
 
-The NVIDIA® Tesla™ 20-series is designed from the ground up for high performance computing (HPC). Based on the next generation CUDA GPU architecture codenamed "Fermi", it supports many "must have" features for technical and enterprise computing. These include ECC protection for uncompromised accuracy and data reliability, support for C++, and double precision floating-point performance. When compared to the latest quad-core CPU, Tesla 20-series GPU computing processors deliver equivalent performance at 1/20th the power consumption and 1/10th the cost.
+	GPGPU
+General-purpose computing on graphics processing units (GPGPU, also referred to as GPGP and less often GP²) is the technique of using a GPU, which typically handles computation only for computer graphics, to perform computation in applications traditionally handled by the CPU. It is made possible by the addition of programmable stages and higher precision arithmetic to the rendering pipelines, which allows software developers to use stream processing on non-graphics data.
 
-
-	Whenever Nvidia launches a new product, AMD launches a similar product in the following weeks.	
 
 SLI
 How Does SLI Technology Work?
@@ -80,9 +73,11 @@ NVIDIA® PhysX™ is a powerful physics engine enabling real-time physics in lea
 LIBVDPAU
 VDPAU (Video Decode and Presentation API for Unix) is an open source library (libvdpau) and API originally designed by NVIDIA for its GeForce 8 series and later GPU hardware,[2][3] targeted at the X Window System on Unix-based operating systems (including Linux, FreeBSD, and Solaris).[4][5][6] This VDPAU API allows video programs to offload portions of the video decoding process and video post-processing to the GPU video-hardware.
 The libvdpau standalone VDPAU library is distributed by NVIDIA independently of their proprietary Linux graphics driver.
-	convenient
+	So libvdpau library is really convenient for the watching of High Definition videos.
 
-Concurrence
+Competition
+
+	Whenever Nvidia launches a new product, AMD launches a similar product in the following weeks.	
 
 AMD accused NVIDIA to cheat with PhysX
 AMD maintained indeed that NVIDIA had modified the PhysX API in order not to have the best performance with multiple processors in the CPU , and so to give an advantage to the NVIDIA GPU.
@@ -90,9 +85,7 @@ AMD maintained indeed that NVIDIA had modified the PhysX API in order not to hav
 
 ATI brought out the crossfire one year after SLI, it's approximately the same thing. In the same way, AMD brought out the Hybrid crossfire in 2008, just after NVIDIA
 
-
-
-NVIDIA announced it has signed a new six-year cross-licensing agreement with Intel. For the future use of NVIDIA's technology, Intel will pay NVIDIA an aggregate of $1.5 billion in licensing fees payable in five annual installments, beginning Jan. 18, 2011.
+NVIDIA recently announced the signature of a new six-year cross-licensing agreement with Intel. For the future use of NVIDIA's technology, Intel will pay NVIDIA an aggregate of $1.5 billion in licensing fees payable in five annual installments.
 
 
 	LIENS
