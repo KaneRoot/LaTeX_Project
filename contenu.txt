@@ -93,7 +93,7 @@ AMD accused NVIDIA to cheat with PhysX
 Indeed AMD maintain that NVIDIA modified the PhysX API in order to haven't the best perform with multiple processor in the CPU so that give a advantage more important than the GPU
 
 
-
+ATI bring out the crossfire one year after SLI, it approximately the same thing. In the same way as AMD bring out the Hybrid crossfire in 2008 after NVIDIA
 
 
 
