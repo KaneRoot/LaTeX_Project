@@ -32,6 +32,30 @@ kimball = magasin de données petit au départ
 
 	So working at NVIDIA seems to be really good but in fact if you ask some employees the reality is different...
 
+The partners
+
+ASUS
+
+ASUS (asustek computer Incorporated) is a multinational computer product manufacturer centered in Taiwan. Its product range includes motherboards, laptops, servers and mobile phones
+
+EVGA
+
+EVGA Corporation is a company that produces NVIDIA based consumer computer hardware, as well as Intel based motherboards.[2] Founded in July 1999, it is currently headquartered in Brea, California.
+
+It was more developped by tony and louis the last week.
+
+Gigabyte
+
+GIGABYTE Technology Co., Ltd. is a Taiwan-based manufacturer of computer hardware products best known for its motherboards.
+
+PNY
+
+PNY Technologies, Inc is a manufacturer of flash memory cards, USB flash drives, solid state drives, memory upgrade modules, as well as consumer and professional graphics cards. Headquartered in Parsippany, NJ (new jersey)
+
+Zotac
+
+ZOTAC International Limited is a computer hardware company based in Hong Kong producing consumer electronics in the form of motherboards, Mini PCs, Nettops, and Nvidia based graphics cards.
+
 
 	I'm going to present the products
 	Nvidia sells many different ranges of video-cards so as to meet the needs of as many people as possible.
