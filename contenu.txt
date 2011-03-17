@@ -58,8 +58,21 @@ General-purpose computing on graphics processing units (GPGPU, also referred to 
 	There are some video cards for a basic use, some for workstations and for gaming.
 
 
+	First graphics card : NV1 for games console Saturn of Sega
+
+	The RIVA 128 and RIVA 128ZX (DirectX 5)
+	The RIVA TNT, RIVA TNT2 (directX 6), it's a very good success which let NVidia to be the market leader.
+	
+	The GeForce : 13 types of GeForce (GeForce 8 integrete CUDA technologie)
+
+	The Quadro
+
+	The Tesla
+
 
 	Whenever Nvidia launches a new product, AMD launches a similar product in the following weeks.	
+
+	
 
 	convenient
 
