@@ -57,9 +57,9 @@ General-purpose computing on graphics processing units (GPGPU, also referred to 
 	Nvidia sells many different ranges of video-cards so as to meet the needs of as many people as possible.
 	There are some video cards for a basic use, some for workstations and for gaming.
 
-
-
 	Whenever Nvidia launches a new product, AMD launches a similar product in the following weeks.	
+
+	
 
 	convenient
 
