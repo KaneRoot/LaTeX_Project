@@ -50,7 +50,11 @@ General-purpose computing on graphics processing units (GPGPU, also referred to 
 
 	The Quadro
 
+The Nvidia Quadro series of AGP, PCI, and PCI Express graphics-cards are designed to accelerate CAD (Computer-Aided Design) and DCC (digital content creation), and the cards are usually featured in workstations. (Compared to the NVIDIA GeForce product-line, which specifically targets computer-gaming). Competing products include the FireGL line of workstation graphics cards by ATI Technologies, Inc.. Companies such as Matrox and Avid also focus on specialized hardware accelerated graphics cards intended primarily for DCC.
+
 	The Tesla
+
+The NVIDIA® Tesla™ 20-series is designed from the ground up for high performance computing (HPC). Based on the next generation CUDA GPU architecture codenamed "Fermi", it supports many "must have" features for technical and enterprise computing. These include ECC protection for uncompromised accuracy and data reliability, support for C++, and double precision floating-point performance. When compared to the latest quad-core CPU, Tesla 20-series GPU computing processors deliver equivalent performance at 1/20th the power consumption and 1/10th the cost.
 
 
 	Whenever Nvidia launches a new product, AMD launches a similar product in the following weeks.	
