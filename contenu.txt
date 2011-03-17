@@ -63,6 +63,37 @@ General-purpose computing on graphics processing units (GPGPU, also referred to 
 
 	convenient
 
+SLI
+
+How Does SLI Technology Work?
+Using proprietary software algorithms and dedicated scalability logic in each NVIDIA graphics processing unit (GPU), NVIDIA SLI technology delivers up to twice the performance (with 2 cards) and 2.8X the performance (with 3 cards) compared to a single graphics solution.
+
+How Do I Get SLI?
+To run SLI, a PC needs to be equipped with an SLI-Certified Motherboard and 2or 3 SLI-Certified GeForce GPUs. We also recommend using an SLI-Certified power supply and chassis for maximum stability.
+
+CUDA Architecture
+
+CUDA is a revolutionary parallel computing architecture. As an enabling hardware and software technology, CUDA makes it possible to use the many computing cores in a graphics processor to perform general-purpose mathematical calculations, achieving dramatic speedups in computing performance.
+
+OpenCL
+
+OpenCL™ (Open Computing Language) is a new heterogeneous computing environment that runs on the CUDA architecture. It will allow developers to harness the massive parallel computing power of NVIDIA GPUs to create compelling computing applications.
+
+PhysX
+
+NVIDIA® PhysX™ is a powerful physics engine enabling real-time physics in leading edge PC and console games. PhysX software is widely adopted by over 150 games, is used by more than 10,000 developers of all types and is supported on Sony Playstation 3, Microsoft Xbox 360, Nintendo Wii and PC. 
+
+Concurrence
+
+AMD accused NVIDIA to cheat with PhysX
+Indeed AMD maintain that NVIDIA modified the PhysX API in order to haven't the best perform with multiple processor in the CPU so that give a advantage more important than the GPU
+
+
+
+
+
+
+
 	LIENS
 	http://www.nvidia.com/page/benefits.html
 	http://en.wikipedia.org/wiki/Flexible_spending_account
