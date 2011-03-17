@@ -1,17 +1,3 @@
- nb d'employés + conditions de travail
-	benefits + perks
-3 ensuite ses partenaires
-	les entreprises qui font les cartes
-4 après on parle des produits
-	les différentes technos
-5 la concurrence (ATI)
-	ce qu'a fait ATI pour contrer les avancées de Nvidia (par exemple en réponse au SLI de nvidia, ATI a fait le crossfire)
-6 et ensuite les parts de marché suivi des chiffres 
-	market shares + turnover 
-
-Based in Santa Clara, Calif., NVIDIA was founded in 1993, by Jen-Hsun Huang, who had previously served at LSI Logic and AMD, and Chris Malachowsky and Curtis Priem, who came from Sun Microsystems. The company went public in 1999 and is listed on NASDAQ, where its shares trade under the symbol NVDA. It has some 5,700 employees in more than 20 countries.
-
-
 mettre à jour : 
 
 git pull # Pour prendre les dernières mises à jour
@@ -46,7 +32,6 @@ General-purpose computing on graphics processing units (GPGPU, also referred to 
 	The major attraction of these plans is that the contributions are taken from pre-tax salary, and the funds grow tax-free until withdrawn.
 
 	Flexible Spending Accounts (FSAs)
-
 	A flexible spending account is an account into which amounts are deposited to be used as payment for future eligible health care expenses.
 
 
