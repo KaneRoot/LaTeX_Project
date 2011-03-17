@@ -100,6 +100,7 @@ NVIDIA® PhysX™ is a powerful physics engine enabling real-time physics in lea
 
 LIBVDPAU
 VDPAU (Video Decode and Presentation API for Unix) is an open source library (libvdpau) and API originally designed by NVIDIA for its GeForce 8 series and later GPU hardware,[2][3] targeted at the X Window System on Unix-based operating systems (including Linux, FreeBSD, and Solaris).[4][5][6] This VDPAU API allows video programs to offload portions of the video decoding process and video post-processing to the GPU video-hardware.
+The libvdpau standalone VDPAU library is distributed by NVIDIA independently of their proprietary Linux graphics driver.
 
 Concurrence
 
