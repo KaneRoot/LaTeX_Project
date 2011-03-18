@@ -2,16 +2,16 @@ video
 
 
 Fonctionnalités
-
-Inventeurs noms + descriptif
-Siège social
-nombre d'employés
-chiffre d'affaire
-conditions de travail
-Date d'invention
-Nos photos
-Entreprise qui a financé les recherches
-Entreprise très développée = riche.
+	Inventeurs noms + descriptif
+	Siège social
+	nombre d'employés
+	chiffre d'affaire
+	conditions de travail
+	Date d'invention
+	Nos photos
+	Entreprise qui a financé les recherches
+	Entreprise très développée = riche.
+	D'où est venue l'idée. => Les cours étaient trop durs, on voulait pas travailler.
 
 
 
@@ -31,9 +31,7 @@ Points positifs:
 	
 	Médical :
 		Évite les cancers
-
-	Autre :
-		Améliore les réflexes
+		Réveille les comateux
 
 
 Points négatifs:
@@ -56,3 +54,35 @@ Améliorations:
 	Ajout de domaines 
 	Allègement de la batterie (suppression ? Solaire?)
 		
+Phrases à utiliser
+
+	Let me show you ... <= expressions de l'an dernier (toilettes)
+
+À faire:
+
+	Graphiques sur le nombre d'opérations + chiffre d'affaire
+	Graphiques sur le QI
+
+
+	Améliore les réflexes
+
+FILM
+
+Faire tomber du café.
+Tomber dans les escaliers.
+0/20 en maths.
+"Salut monsieur" <= vous ne paraîtrez plus jamais bête.
+Gros blanc. => plus jamais de gros blanc en cours !
+
+
+	Grâce à notre produit vous ne laisserez plus tomber votre tasse de café.
+
+		
+	Présenter les avancées technologiques qui ont été permises
+
+	
+
+Concurrence:
+	Casques jolis
+
+
