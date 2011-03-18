@@ -38,6 +38,7 @@ Points positifs:
 		Évite les cancers
 		Réveille les comateux
 		Améliore les réflexes
+		Soigne les addictions
 
 
 Points négatifs:
@@ -95,3 +96,34 @@ Envoi d'un sms pas à la bonne personne (insulte/photo compromettante)
 	
 Concurrence:
 	Casques jolis
+
+
+ Introduction / Sommaire
+1. Présentation du produit
+	description : 
+		fonctionnalités techniques
+		présentation du produit physique
+
+		points positifs
+		points négatifs
+
+		améliorations
+
+2. L'entreprise
+	L'entreprise en général
+		Siège social
+		Inventeurs noms
+		Date d'invention
+		D'où est venue l'idée. => Les cours étaient trop durs, on voulait pas travailler.
+	Financier
+		Chiffre d'affaire
+		Entreprise qui a financé les recherches
+		Entreprise très développée = riche.
+
+	Employés
+		Nombre d'employés
+		Conditions de travail
+
+3. Video
+
+	Conclusion
