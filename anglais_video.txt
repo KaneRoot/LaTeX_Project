@@ -1,0 +1,58 @@
+video 
+
+
+Fonctionnalités
+
+Inventeurs noms + descriptif
+Siège social
+nombre d'employés
+chiffre d'affaire
+conditions de travail
+Date d'invention
+Nos photos
+Entreprise qui a financé les recherches
+Entreprise très développée = riche.
+
+
+
+Divers
+	limité à un seul domaine (physique ...)
+	différentes couleurs en fonction du domaine
+	le nombre de domaines actuellement dispo => limité
+
+
+
+Points positifs:
+	connaissances pointues
+	remboursé par la sécurité sociale
+	tendance => mode => people
+	l'avenir => devenir chercheur en quelques heures
+	éviter les catastrophes / découvrir les technologies du futur
+	
+	Médical :
+		Évite les cancers
+
+	Autre :
+		Améliore les réflexes
+
+
+Points négatifs:
+	besoin d'une intervention chirurgicale
+	cicatrices post-opératoires
+	batterie trop lourde
+	provoque des effets secondaires
+		nausée
+		vomissements
+		maux de tête
+		folie temporaire
+		évanouissement
+	
+	besoin de retourner à l'hôpital
+	contrôles réguliers invasifs tous les 2 ans
+	ennui profond de l'entourage
+
+		
+Améliorations:
+	Ajout de domaines 
+	Allègement de la batterie (suppression ? Solaire?)
+		
