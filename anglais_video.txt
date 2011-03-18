@@ -16,6 +16,12 @@ Fonctionnalités
 
 
 Divers
+	{
+		biologie = vert
+		physique = violet/noir
+		math = Jaune
+		langues = bleu
+	}
 	limité à un seul domaine (physique ...)
 	différentes couleurs en fonction du domaine
 	le nombre de domaines actuellement dispo => limité
@@ -25,13 +31,13 @@ Divers
 Points positifs:
 	connaissances pointues
 	remboursé par la sécurité sociale
-	tendance => mode => people
 	l'avenir => devenir chercheur en quelques heures
 	éviter les catastrophes / découvrir les technologies du futur
 	
 	Médical :
 		Évite les cancers
 		Réveille les comateux
+		Améliore les réflexes
 
 
 Points négatifs:
@@ -42,7 +48,8 @@ Points négatifs:
 		nausée
 		vomissements
 		maux de tête
-		folie temporaire
+		folie passagère
+		hallucinations
 		évanouissement
 	
 	besoin de retourner à l'hôpital
@@ -52,7 +59,12 @@ Points négatifs:
 		
 Améliorations:
 	Ajout de domaines 
+		Informatique
+		Arts
+		Force physique
+
 	Allègement de la batterie (suppression ? Solaire?)
+
 		
 Phrases à utiliser
 
@@ -62,27 +74,24 @@ Phrases à utiliser
 
 	Graphiques sur le nombre d'opérations + chiffre d'affaire
 	Graphiques sur le QI
+	
 
-
-	Améliore les réflexes
 
 FILM
 
+Se tromper de bouteille.
 Faire tomber du café.
 Tomber dans les escaliers.
-0/20 en maths.
+0/20 en maths + bruitages 'pleurs + joie (applaudissements)'.
 "Salut monsieur" <= vous ne paraîtrez plus jamais bête.
 Gros blanc. => plus jamais de gros blanc en cours !
+Envoi d'un sms pas à la bonne personne (insulte/photo compromettante)
 
 
 	Grâce à notre produit vous ne laisserez plus tomber votre tasse de café.
 
 		
 	Présenter les avancées technologiques qui ont été permises
-
 	
-
 Concurrence:
 	Casques jolis
-
-
